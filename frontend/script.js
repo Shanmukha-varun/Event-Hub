@@ -1,5 +1,5 @@
     // --- Configuration ---
-    const API_BASE_URL = 'http://localhost:5000/api'; // Adjust if your backend runs elsewhere
+    const API_BASE_URL = 'https://event-hub-nmhd.onrender.com'; // Adjust if your backend runs elsewhere
 
     // --- State Variables ---
     let currentUser = null;
