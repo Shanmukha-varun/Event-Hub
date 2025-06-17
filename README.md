@@ -115,14 +115,3 @@ MIT © 2025 Shanmukha Varun
 
 ````
 
----
-
-## ✅ How to Push `README.md` to GitHub
-
-1. **Create the file:**
-
-In your project root:
-```bash
-cd Event-Hub
-touch README.md
-````
