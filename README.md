@@ -113,5 +113,3 @@ Built with endless coffee ☕, debugging patience, and massive help from **Gemin
 
 MIT © 2025 Shanmukha Varun
 
-````
-
